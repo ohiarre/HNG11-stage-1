@@ -41,7 +41,7 @@ img {
 .links {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items:center;
     padding: 50px;
     font-family: "Playwrite IT Moderna", cursive;
